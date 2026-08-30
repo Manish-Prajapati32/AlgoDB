@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31619855/README.md)
 # AlgoDB Master 🚀
 ### Interactive Visual Learning Platform for Data Structures, Algorithms & DBMS
 
@@ -8,6 +9,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **AlgoDB Master** is an intuitive, all-in-one educational web application crafted to help computer science students, software engineers, and bootcamp learners master **Data Structures**, **Algorithms**, and **Database Management Systems (DBMS)** through step-by-step interactive visualizations, algorithm execution simulations, and hands-on SQL query playgrounds.
+
+> 🤖 **Built with vibe coding** — this project was developed using AI-assisted ("vibe coded") workflows to accelerate iteration on the UI and visualizations.
 
 ---
 
@@ -100,8 +103,8 @@ Follow these steps to run **AlgoDB Master** locally on your machine.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/algodb-master.git
-cd algodb-master
+git clone https://github.com/Manish-Prajapati32/AlgoDB.git
+cd AlgoDB
 ```
 
 ### 2. Install dependencies
@@ -151,6 +154,17 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
+
+---
+
+## 👤 Author
+
+**Manish Prajapati**
+B.E. Computer Science Engineering | AI/ML & Cybersecurity
+
+- GitHub: [@Manish-Prajapati32](https://github.com/Manish-Prajapati32)
+- LinkedIn: [Manish Prajapati](https://www.linkedin.com/in/manish-prajapati-863858324)
+- Email: manishprajapati9563@gmail.com
 
 ---
 
